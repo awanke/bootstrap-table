@@ -23,3 +23,10 @@ nbproject
 .idea
 .project
 .settings
+*.iml
+
+# OS X Finder internal system files
+.DS_Store
+.localized
+Icon
+.vscode
